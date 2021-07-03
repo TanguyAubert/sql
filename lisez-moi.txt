@@ -1,3 +1,0 @@
-
-cd c:\Tanguy\Programs\projects\sql\cpp
-code .
