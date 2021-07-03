@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616325806082.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3297011267",
+    "id" : "AD3CA607",
+    "lastKnownWriteTime" : 1615826172,
+    "last_content_update" : 1615826172843,
+    "path" : "C:/Tanguy/Programs/projects/sql/r/sql.R",
+    "project_path" : "sql.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
